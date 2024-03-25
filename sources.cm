@@ -1,0 +1,8 @@
+group is 
+$/basis.cm
+../src/sequence-uncurried/sources.cm
+ordered.sml
+test.sml
+dict.sig
+dict.sml
+stats.sml
